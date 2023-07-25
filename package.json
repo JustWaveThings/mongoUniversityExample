@@ -1,0 +1,23 @@
+{
+  "name": "mongouniversityexample",
+  "version": "1.0.0",
+  "description": "MongoDB University Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustWaveThings/mongoUniversityExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustWaveThings/mongoUniversityExample/issues"
+  },
+  "homepage": "https://github.com/JustWaveThings/mongoUniversityExample#readme",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
